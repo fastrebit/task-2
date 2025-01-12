@@ -105,19 +105,19 @@ body {
     background-color: rgba(255, 62, 121, 1);
 }
 .profile {
-    background-image: url("/images/profile.svg");
+    background-image: url("./images/profile.svg");
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 .chat {
-    background-image: url("/images/chat.svg");
+    background-image: url("./images/chat.svg");
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 .phone {
-    background-image: url("/images/phone.svg");
+    background-image: url("./images/phone.svg");
     background-repeat: no-repeat;
     background-position: center center;
 }
